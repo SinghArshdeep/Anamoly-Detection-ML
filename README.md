@@ -9,3 +9,8 @@ While perhaps cumbersome (and often embarrassing) in the moment, this fraud prev
 In this repository, we follow the steps for **DATA ANALYTICS** and come up with the best **ML MODEL**. 
 
 Link for the competition: https://www.kaggle.com/c/ieee-fraud-detection/overview/description
+
+If the notbeooks do not render, please use the following link:
+https://kokes.github.io/nbviewer.js/viewer.html
+
+The final model produces an accuracy of 98%. 
