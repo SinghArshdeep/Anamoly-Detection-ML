@@ -7,3 +7,5 @@ Embarrassed, and certain you have the funds to cover everything needed for an ep
 While perhaps cumbersome (and often embarrassing) in the moment, this fraud prevention system is actually saving consumers millions of dollars per year. 
 
 In this repository, we follow the steps for **DATA ANALYTICS** and come up with the best **ML MODEL**. 
+
+Link for the competition: https://www.kaggle.com/c/ieee-fraud-detection/overview/description
