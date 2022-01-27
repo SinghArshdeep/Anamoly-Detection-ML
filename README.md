@@ -13,4 +13,4 @@ Link for the competition: https://www.kaggle.com/c/ieee-fraud-detection/overview
 If the notbeooks do not render, please use the following link:
 https://kokes.github.io/nbviewer.js/viewer.html
 
-The final model produces an accuracy of 98%. 
+The final model produces an **accuracy of 98%**. 
